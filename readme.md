@@ -441,6 +441,7 @@
  - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
  - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
  - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
+ - [Material-UI](http://www.material-ui.com/) - A Set of React Components that Implement Google's Material Design
 
 
 ###### Bootstrap
